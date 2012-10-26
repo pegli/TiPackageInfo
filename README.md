@@ -16,6 +16,9 @@ specified in the ZIP file name:
 ```
 1. Clean and rebuild your project.
 
+Detailed instructions for installing modules can be found on the
+[Appcelerator documentation site](http://docs.appcelerator.com/titanium/latest/#!/guide/Using_a_Module).
+
 Usage Example
 -------------
 
